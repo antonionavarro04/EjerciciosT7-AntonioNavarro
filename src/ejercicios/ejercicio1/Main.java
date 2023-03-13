@@ -18,6 +18,6 @@ public class Main {
 
         cc.ingresarDinero(1.1f);
 
-        System.out.println(cc.mostrarInformacion());
+        System.out.println(cc);
     }
 }
