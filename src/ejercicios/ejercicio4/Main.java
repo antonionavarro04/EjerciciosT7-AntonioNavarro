@@ -8,7 +8,7 @@ public class Main {
         // ? Salto de Línea Triple
         System.out.println("\n-----------------------------------\n");
         
-        System.out.println(articulo); System.out.println("------------------------");
+        System.out.println(articulo); System.out.println("-------------------------");
         System.out.println(articuloMal);
         
         // ? Salto de Línea Triple
